@@ -1,0 +1,1 @@
+F:\dotnet1\serviceFabric\SFstateful\SFstateful\obj\x64\Debug\SFstateful.sfproj.CoreCompileInputs.cache

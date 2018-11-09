@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.exe
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.deps.json
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.json
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+C:\Users\Admin\source\repos\CloudySFsample\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.pdb

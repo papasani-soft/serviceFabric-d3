@@ -1,0 +1,17 @@
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csproj.CoreCompileInputs.cache
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfoInputs.cache
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfo.cs
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.exe
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.deps.json
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.json
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.dev.json
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+F:\dotnet1\serviceFabric\SFstateful\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.pdb
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csprojAssemblyReference.cache
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cache
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cs
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorTargetAssemblyInfo.cache
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+F:\dotnet1\serviceFabric\SFstateful\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.pdb
